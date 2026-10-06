@@ -1,1 +1,5 @@
-ddddd
+class Pokemon():
+    pass
+
+class Entrenador():
+    pass
